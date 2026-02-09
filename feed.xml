@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Arte y Comunicación</title>
+    <link href="https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/feed.xml" rel="self" />
+    <link href="https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion" />
+    <updated>2026-02-08T21:54:01-05:00</updated>
+    <author>
+        <name>Valentina Molina</name>
+    </author>
+    <id>https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion</id>
+
+    <entry>
+        <title>Composición visual - Inkscape</title>
+        <author>
+            <name>Valentina Molina</name>
+        </author>
+        <link href="https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/composicion-visual-inkscape.html"/>
+        <id>https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/composicion-visual-inkscape.html</id>
+            <category term="Composición visual"/>
+
+        <updated>2026-02-08T21:54:01-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Composición hecha... [Ejemplo]
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Composición hecha...<br>[Ejemplo]</p>
+<figure class="post__image"><br><img loading="lazy"  src="https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/media/posts/2/Captura-de-pantalla-2025-10-08-224422.png" alt="" width="722" height="802" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/media/posts/2/responsive/Captura-de-pantalla-2025-10-08-224422-xs.png 640w ,https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/media/posts/2/responsive/Captura-de-pantalla-2025-10-08-224422-sm.png 768w ,https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/media/posts/2/responsive/Captura-de-pantalla-2025-10-08-224422-md.png 1024w ,https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/media/posts/2/responsive/Captura-de-pantalla-2025-10-08-224422-lg.png 1366w ,https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/media/posts/2/responsive/Captura-de-pantalla-2025-10-08-224422-xl.png 1600w ,https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/media/posts/2/responsive/Captura-de-pantalla-2025-10-08-224422-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Arte y Comunicación",
+    "description": "",
+    "home_page_url": "https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion",
+    "feed_url": "https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Valentina Molina"
+    },
+    "items": [
+        {
+            "id": "https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/composicion-visual-inkscape.html",
+            "url": "https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/composicion-visual-inkscape.html",
+            "title": "Composición visual - Inkscape",
+            "summary": "Composición hecha... [Ejemplo]",
+            "content_html": "<p>Composición hecha...<br>[Ejemplo]</p>\n<figure class=\"post__image\"><br><img loading=\"lazy\"  src=\"https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/media/posts/2/Captura-de-pantalla-2025-10-08-224422.png\" alt=\"\" width=\"722\" height=\"802\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/media/posts/2/responsive/Captura-de-pantalla-2025-10-08-224422-xs.png 640w ,https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/media/posts/2/responsive/Captura-de-pantalla-2025-10-08-224422-sm.png 768w ,https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/media/posts/2/responsive/Captura-de-pantalla-2025-10-08-224422-md.png 1024w ,https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/media/posts/2/responsive/Captura-de-pantalla-2025-10-08-224422-lg.png 1366w ,https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/media/posts/2/responsive/Captura-de-pantalla-2025-10-08-224422-xl.png 1600w ,https://molinariosvalentina6-droid.github.io/Arte-y-comunicacion/media/posts/2/responsive/Captura-de-pantalla-2025-10-08-224422-2xl.png 1920w\"></figure>",
+            "author": {
+                "name": "Valentina Molina"
+            },
+            "tags": [
+                   "Composición visual"
+            ],
+            "date_published": "2026-02-08T21:54:01-05:00",
+            "date_modified": "2026-02-08T21:54:01-05:00"
+        }
+    ]
+}
